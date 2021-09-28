@@ -1,5 +1,5 @@
 ### Overview 
-For this project, Python and SQLAlchemy were used to gather statistics on weather data for the months of June and December in Hawaii from the given dataset in a sqlite file. The end goal is to determine wheter or not a surf shop would be a sucessful business idea throughtout the year depending on the history of weather. The jupyter notebook file __SurfsUp_Challenge__ is where this code resides.
+For this project, Python and SQLAlchemy were used to gather statistics on weather data for the months of June and December in Hawaii from the given dataset in a sqlite file. The end goal is to determine wheter or not a surf shop would be a sucessful business idea throughtout the year depending on the history of weather. The jupyter notebook file __SurfsUp_Challenge.ipynb__ is where this code resides.
 
 ### Results 
 After filtering the dataset to only include the months of June and December, the describe() function was used to produce the following dataframes for each month's recorded temperatures:
