@@ -11,6 +11,6 @@ After filtering the dataset to only include the months of June and December, the
 From the two dataframes, it can be seen that 
 - the mean temperature in both months is in the low seventies with a standard deviation of about three degrees. So the temperature appears to be consistent enough at the halfways points in the year so that a surf shop can stay in business all year instead of only seasonal.  
 - However, the minimum temperature in June is higher than the minumum in December, approximating nearly eight degrees colder in Decemeber than in June. The difference is not necessarily too drastic that the surf shop would not survive around this time, but just points to the fact that perhaps there would be fewer days of operation for the shop around the Decemeber months, or that there would just be fewer customers on those days who are willing to bear the colder temperatures out on the water.
--Fifty percent of the recorded temperatures fall between 73º and 77º in June, and 69º and 74º in Decemeber, a range that seems managable for a surf shop 
+- Fifty percent of the recorded temperatures fall between 73º and 77º in June, and 69º and 74º in Decemeber, a range that seems managable for a surf shop 
 
 ### Summary 
